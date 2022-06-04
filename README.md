@@ -5,7 +5,7 @@
 - 📫 How to reach me: bastian.herzig94@gmail.com
 
 
-[
+
 
 <!--
 **BastianHerzig/BastianHerzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
