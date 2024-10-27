@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning iOS Development with SwiftUI and Combine
+- 🌱 I’m currently learning iOS Development with SwiftUI
 - 👯 I’m looking to collaborate on a Open Source SwiftUI Projekt
-- 📫 How to reach me: bastian.herzig94@gmail.com
+- 📫 How to reach me: bastian.herzig@icloud.com
 
 
 
